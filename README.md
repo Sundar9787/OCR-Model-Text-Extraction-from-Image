@@ -101,17 +101,6 @@ Upload an image via the UI and the app will:
 
 ---
 
-## 🔍 Example Output
-
-```
-📋 All OCR Results:
-🔍 EasyOCR: 'Hello World' (Confidence: 0.945)
-🔍 Tesseract-General: 'Hello World' (Confidence: 0.910)
-🔍 PaddleOCR: 'Hello World' (Confidence: 0.925)
-
-✅ FINAL OUTPUT: Hello World (via EasyOCR)
-```
-
 ---
 
 ## 🧠 How It Works

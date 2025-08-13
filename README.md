@@ -97,7 +97,7 @@ Upload an image via the UI and the app will:
 
 ## 📷 Demo
 
-![OCR Demo Screenshot](sample_images/demo.png)
+![OCR Demo Screenshot](Demo_Image.jpeg)
 
 ---
 
@@ -112,6 +112,3 @@ Upload an image via the UI and the app will:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.

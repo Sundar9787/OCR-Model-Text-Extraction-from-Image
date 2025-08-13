@@ -97,7 +97,7 @@ Upload an image via the UI and the app will:
 
 ## 📷 Demo
 
-![OCR Demo Screenshot](Demo_Image.jpeg)
+![OCR Demo Screenshot](Demo_image.jpeg)
 
 ---
 

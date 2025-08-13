@@ -1,1 +1,0 @@
-# OCR-Model-Text-Extraction-from-Image
